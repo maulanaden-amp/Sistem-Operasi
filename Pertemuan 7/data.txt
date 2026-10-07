@@ -1,0 +1,4 @@
+Pemrograman paralel memungkinkan beberapa tugas berjalan bersamaan.
+Pthreads adalah standar POSIX untuk membuat dan mengelola thread.
+Race condition terjadi saat dua thread mengakses data bersama tanpa sinkronisasi.
+Mutex digunakan untuk menjamin hanya satu thread di critical section.
